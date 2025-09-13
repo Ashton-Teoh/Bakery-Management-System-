@@ -1,0 +1,3 @@
+Oven:Heating element not functioning
+Mixer:Overheating during use
+Refrigerator:Temperature fluctuation

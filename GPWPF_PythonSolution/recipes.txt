@@ -1,0 +1,5 @@
+Egg Tart:flour,sugar,eggs,milk,butter
+Chicken Pie:flour,chicken,milk,butter
+Coconut Tart:flour,sugar,coconut,eggs
+Tuna Bun:flour,tuna,eggs,butter
+Red Bean Bun:red bean,sugar,eggs,butter

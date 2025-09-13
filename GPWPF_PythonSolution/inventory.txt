@@ -1,0 +1,11 @@
+Egg Tart,20
+Chicken Floss Lotus,20
+Chicken Pie,10
+Coconut Tart,20
+Curry Puff,15
+Kaya Puff,10
+Red Bean Bun,6
+Hot Dog Roll,10
+Mini Croissant,5
+Tuna Bun,10
+

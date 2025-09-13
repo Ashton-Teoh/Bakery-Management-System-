@@ -1,0 +1,10 @@
+A1,Egg Tart,2
+A2,Chicken Floss Lotus,4.50
+B1,Chicken Pie,3.50
+B2,Coconut Tart,3
+C1,Curry Puff,4.50
+C2,Kaya Puff,2.50
+D1,Red Bean Bun,3
+D2,Hot Dog Roll,4
+E1,Mini Croissant,2.50
+E2,Tuna Bun,3.50

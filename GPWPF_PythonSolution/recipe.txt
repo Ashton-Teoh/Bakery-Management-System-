@@ -1,0 +1,10 @@
+Egg Tart,2,0%
+Chicken Floss Lotus,4.50,0%
+Chicken Pie,3.50,0%
+Coconut Tart,3,0%
+Curry Puff,4.50,0%
+Kaya Puff,2.50,0%
+Red Bean Bun,3,0%
+Hot Dog Roll,4,0%
+Mini Croissant,2.50,0%
+Tuna Bun,3.50,0%

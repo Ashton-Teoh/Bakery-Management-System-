@@ -1,0 +1,2 @@
+john.doe@gmail.com,password123,John Doe,123 Bakery Street
+janesmith@gmail.com,password456,Jane Smith,456 Pastry Ave
